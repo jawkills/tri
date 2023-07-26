@@ -1,10 +1,10 @@
 <h3 align="center">Tembak paket tri</h3>
-<img src="https://github.com/jawkills/tri/blob/main/Screenshot_1.png" width="100%" alt="screenshot">
-<img src="https://github.com/jawkills/tri/blob/main/Screenshot_2.png" width="100%" alt="screenshot">
+<img src="https://github.com/jawkills/tri/blob/main/Screenshot_1.png" width="50%" alt="screenshot">
+<img src="https://github.com/jawkills/tri/blob/main/Screenshot_2.png" width="50%" alt="screenshot">
 # TEMBAK PAKET TRI
 Tembak PAKET MURAH TRI/THREE
 # TERMUX APK
-<b>Untuk HP ANDROID 7+ ke atas :</b><br> [disini](https://f-droid.org/repo/com.termux_118.apk)</br>
+<b>Untuk HP ANDROID 7+ ke atas :</b><br>(https://f-droid.org/repo/com.termux_118.apk)</br>
 
 <b>HOW TO INSTALL SCRIPT :</b>
 ```
